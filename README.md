@@ -4,7 +4,7 @@
 
 ## 외부 링크
 
-- [오토핫키](https://www.autohotkey.com/)
+- [오토핫키 공식 사이트](https://www.autohotkey.com/)
 
 - [VBA 설명서(영어)](https://learn.microsoft.com/en-us/office/vba/api/overview/excel)
 
